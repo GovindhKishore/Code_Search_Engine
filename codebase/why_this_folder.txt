@@ -1,0 +1,10 @@
+When using the Code Search Engine, copy and paste the Python project you want to search inside this folder.
+The search engine will index all .py files inside codebase/
+and allow you to search for functions by name, docstring, or source code.
+
+Example:
+    codebase/
+        your_project/
+            file1.py
+            file2.py
+            etc..
